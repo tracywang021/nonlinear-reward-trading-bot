@@ -6,7 +6,7 @@ This project implements a stock trading bot with DQN and non-linear reward funct
 ## Structure of This Folder
 run-experiment.py: main file to run for training agents with customized stock and hyperparameter configuration
 
-data-collection.py: file to collect and export training, validation, and testing csvs to data folder
+data-collection.py: file to collect and export training, validation, and testing CSVs to data folder
 
 evaluation.py: file to run for validation and testing with a saved model
 
